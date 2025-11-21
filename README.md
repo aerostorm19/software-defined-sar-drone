@@ -81,7 +81,7 @@ Shortlisted among top ten university research teams. Recognized for technical in
 
 ## Quick Start
 ---
-- git clone https://github.com/yourusername/sar-drone-imaging.git
+- git clone https://github.com/aerostorm19/software-defined-sar-drone
 - cd sar-drone-imaging
 - pip install -r requirements.txt
 - jupyter notebook notebooks/demo_end_to_end.ipynb
